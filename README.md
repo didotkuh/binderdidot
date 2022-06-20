@@ -1,2 +1,2 @@
 # binderdidot
-free cpu
+free cpu 72cpu binder
